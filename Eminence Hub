@@ -1,1 +1,1 @@
-local player = game.Players.LocalPlayer player:Kick("Please wait for 5 mins.") 
+local player = game.Players.LocalPlayer player:Kick("Join us in Discord: https://discord.com/invite/BBVfbq9P") 
