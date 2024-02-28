@@ -1,1 +1,1 @@
-local player = game.Players.LocalPlayer player:Kick("The script is now discontinued because someone deobfuscated it.") 
+local player = game.Players.LocalPlayer player:Kick("A new script, 'Menace' is better. Use that.") 
