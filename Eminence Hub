@@ -1,1 +1,1 @@
-local player = game.Players.LocalPlayer player:Kick("A new script, 'Menace' is better. Use that.") 
+local player = game.Players.LocalPlayer player:Kick("Please wait for 5 mins.") 
