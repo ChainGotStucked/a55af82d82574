@@ -1,1 +1,0 @@
-local player = game.Players.LocalPlayer player:Kick("Join us in Discord: https://discord.com/invite/euqh9hks8C")
