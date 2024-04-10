@@ -1,3 +1,0 @@
-local player = game.Players.LocalPlayer
-
-player:Kick("I got yo IP blud WHAHAA")
